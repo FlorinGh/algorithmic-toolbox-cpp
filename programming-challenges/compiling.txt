@@ -1,0 +1,8 @@
+Linux:
+g++ -pipe -02 -std=c++11 ./source.cpp
+
+Windows:
+
+
+IDE Visual Studio:
+right click the project and hit build
